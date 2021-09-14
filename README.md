@@ -1,12 +1,9 @@
-# Notes
-
-> Express / Create React App boilerplate
-
+# Express / Create React App boilerplate
 
 ### Project runs on 172.18.0.17
-- Get IP address from [www.whatsmydns.net](https://www.whatsmydns.net/#A/express-create-react-app.rolandjlevy.repl.co)
 + Running on port 3000 for client: http://172.18.0.17:3000
 + Running on port 4080 for server: http://172.18.0.17:4080
+- Get IP address from [www.whatsmydns.net](https://www.whatsmydns.net/#A/express-create-react-app.rolandjlevy.repl.co)
 
 ### Setup in root directory
 
