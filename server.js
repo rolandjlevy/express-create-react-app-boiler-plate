@@ -12,7 +12,7 @@ app.get('/api/message', (req, res) => {
 
 app.post('/api/post', (req, res) => {
   res.send(
-    `POST request received. This is what was sent: ${req.body.post}`,
+    `POST request received. This was sent: ${req.body.post}`,
   );
 });
 
