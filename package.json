@@ -4,9 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "build": "cd client && yarn build",
     "client": "cd client && yarn start",
     "server": "nodemon server.js",
-    "dev": "concurrently \"yarn server\" \"yarn client\""
+    "dev": "concurrently \"yarn server\" \"yarn client\"",
+    "dev-build": "concurrently \"yarn server\" \"yarn build\""
   },
   "keywords": [],
   "author": "",
