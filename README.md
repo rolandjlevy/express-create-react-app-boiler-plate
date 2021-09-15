@@ -44,3 +44,4 @@ run = "npm run dev"
 - https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
 - https://pusher.com/tutorials/consume-restful-api-react/
 - https://okteto.com/blog/build-your-react-app-in-okteto-cloud/
+- https://create-react-app.dev/docs/proxying-api-requests-in-development/
