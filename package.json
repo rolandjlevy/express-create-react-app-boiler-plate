@@ -7,7 +7,7 @@
     "build": "cd client && yarn build",
     "client": "cd client && yarn start",
     "server": "nodemon server.js",
-    "dev": "concurrently \"yarn server\" \"yarn client\"",
+    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
     "dev-build": "concurrently \"yarn server\" \"yarn build\""
   },
   "keywords": [],

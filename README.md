@@ -1,5 +1,10 @@
 # Express / Create React App boilerplate
 
+### Links
+- [Live demo](https://express-create-react-app-boiler-plate.rolandjlevy.repl.co/)
+- [Source code](https://replit.com/@RolandJLevy/express-create-react-app-boiler-plate)
+- [Github repo](https://github.com/rolandjlevy/express-create-react-app-boiler-plate)
+
 ### Setup in root directory
 
 + Install Create React App with `npx create-react-app client`
@@ -40,7 +45,6 @@ run = "npm run dev"
 
 - https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/
 - https://www.section.io/engineering-education/how-to-setup-nodejs-express-for-react/
-- https://create-react-app.dev/docs/proxying-api-requests-in-development/
 - https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
 - https://pusher.com/tutorials/consume-restful-api-react/
 - https://okteto.com/blog/build-your-react-app-in-okteto-cloud/
