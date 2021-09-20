@@ -13,6 +13,10 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get('/', (req, res) => {
+  res.send('Starting up the server...');
+});
+
 app.get('/api/message', (req, res) => {
   res.json({ message: 'Hello world'})
 });
